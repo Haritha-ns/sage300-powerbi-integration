@@ -26,3 +26,4 @@ This project showcases the integration of Sage 300 ERP data into Power BI using 
 ## Power BI Model Diagram
 
 ![Model Diagram](pbix_model_diagram.png)
+
