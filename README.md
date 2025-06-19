@@ -22,3 +22,7 @@ This project showcases the integration of Sage 300 ERP data into Power BI using 
 ## Outcome
 - Simplified data access using lakehouse endpoints
 - Improved visibility into financial reporting from Sage 300
+
+## Power BI Model Diagram
+
+![Model Diagram](pbix_model_diagram.png)
